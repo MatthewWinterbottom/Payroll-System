@@ -1,0 +1,7 @@
+C:\Users\Matt\source\repos\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csprojAssemblyReference.cache
+C:\Users\Matt\source\repos\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.csproj.CoreCompileInputs.cache
+C:\Users\Matt\source\repos\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe.config
+C:\Users\Matt\source\repos\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.exe
+C:\Users\Matt\source\repos\PayrollSystem\PayrollSystem\bin\Debug\PayrollSystem.pdb
+C:\Users\Matt\source\repos\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.exe
+C:\Users\Matt\source\repos\PayrollSystem\PayrollSystem\obj\Debug\PayrollSystem.pdb

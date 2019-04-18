@@ -1,0 +1,10 @@
+================
+PAYSLIP 4 2019
+==============
+Name Of Staff: Peter
+Hours Worked: 23
+Basic Pay: $1,150.00
+Allowance: $1,000.00
+================
+Total Pay: 1150
+================

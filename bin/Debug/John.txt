@@ -1,0 +1,10 @@
+================
+PAYSLIP 4 2019
+==============
+Name Of Staff: John
+Hours Worked: 102
+Basic Pay: $3,060.00
+Overtime: $0.00
+================
+Total Pay: 3060
+================
